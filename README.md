@@ -1,6 +1,6 @@
 # Candy Crush
 
-[**Play Game**](https://anirudddh.github.io/candy-crush)
+[**Play Game**](https://anirudddh.github.io/Candy-Crush)
 
 Basic version of the match-three puzzle game, Candy Crush Saga by King. Implemented in HTML, CSS, JavaScript, and jQuery for UI Design & Programming (CS422)
 
